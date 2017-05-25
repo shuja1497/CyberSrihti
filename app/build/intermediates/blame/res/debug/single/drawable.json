@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/gd2.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/gd2.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/lassroom48.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/lassroom48.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/ucr.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/ucr.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/blue.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/blue.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/rena48.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/rena48.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/gdb.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/gdb.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/shujareshi/.android/build-cache/a9f6dde060308383144a1f159a665ba3852c4b0f/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/gd1.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/gd1.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/ieee.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/ieee.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/gd4.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/gd4.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/us.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/us.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/calender.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/calender.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/tab_brown.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/tab_brown.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/f5.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/f5.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/shujareshi/.android/build-cache/a9f6dde060308383144a1f159a665ba3852c4b0f/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/layout_brown.JPG",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/layout_brown.JPG"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/reach.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/reach.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/face.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/face.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/alarm.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/alarm.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_audiotrack_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/gd3.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/gd3.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/reg.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/reg.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/classroom48.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/classroom48.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/shujareshi/.android/build-cache/be10b07a752e7530cfe6046f6525047e53701bb5/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/raining48.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/raining48.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/img2.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/img2.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/facebook48.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/facebook48.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/f2.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/f2.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/f1.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/f1.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/logo2.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/logo2.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/arena48.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/arena48.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/ic_collapse.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/ic_collapse.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_close_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/f3.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/f3.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/shujareshi/.android/build-cache/a9f6dde060308383144a1f159a665ba3852c4b0f/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/shujareshi/.android/build-cache/a9f6dde060308383144a1f159a665ba3852c4b0f/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/img1.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/img1.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/building50.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/building50.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/f4.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/f4.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/gdg.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/gdg.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/calender2.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/calender2.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/user_male.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/user_male.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/ic_expand.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/yellow_black.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/yellow_black.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/img_circle_placeholder.xml",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/img_circle_placeholder.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abouts.jpg",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/abouts.jpg"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/user_.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/user_.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/training48.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/training48.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/shujareshi/.android/build-cache/a9f6dde060308383144a1f159a665ba3852c4b0f/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/contact.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/drawable/contact.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    }
+]

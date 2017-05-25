@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bio"
+    android:gravity="center">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:alpha="0.7" />
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+        android:elevation="4dp"
+        card_view:cardCornerRadius="8dp"
+        android:layout_marginTop="50dp"
+
+        >
+
+        <RelativeLayout
+            android:id="@+id/rel_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/bio"
+                android:id="@+id/cover"
+                android:transitionName="selected team"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="&quot;Hackathon is no less than a fiesta for computer nerds and gizmo geeks! Hackathons provide a venue for self-expression and creativity through technology. Despite the complete lack of sleep, these events are addictive, and the community building around them is growing faster than ever. Teams work together to come up with awebsite, mobile app, or even hardware hack, the goal is to start from scratch and end with a working prototype. Hackathons also serve as recruiting events where venture capitalists and head-hunters for top tech firms hang about in order to spot and seize talent. Go Geeky!"
+                android:id="@+id/txt_plot_details"
+                android:layout_marginLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="12sp"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/cover"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="WWW.CYBERSHRISHTI.COM"
+                android:id="@+id/textView"
+                android:clickable="true"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="24dp" />
+
+            <Button
+                android:text="REGISTRATION"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="11dp"
+                android:id="@+id/button"
+                android:layout_above="@+id/textView"
+                android:layout_alignLeft="@+id/txt_plot_details"
+                android:layout_alignStart="@+id/txt_plot_details" />
+
+            <Button
+                android:text="INSTRUCTIONS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button2"
+                android:layout_alignBaseline="@+id/button"
+                android:layout_alignBottom="@+id/button"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="15dp"
+                android:layout_marginEnd="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="BIO-INFORMATICS"
+                android:id="@+id/txt_movie_details"
+                android:singleLine="true"
+                android:textSize="30sp"
+                android:textColor="#ffffff"
+                android:layout_marginBottom="80dp"
+                android:layout_above="@+id/txt_plot_details"
+                android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

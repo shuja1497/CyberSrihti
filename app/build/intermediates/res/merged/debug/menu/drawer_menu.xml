@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/menu_group_1">
+        <item
+            android:id="@+id/menu_feed"
+            android:icon="@drawable/arena48"
+            android:title="Events" />
+        <item
+            android:id="@+id/menu_photos_nearby"
+            android:icon="@drawable/building50"
+            android:title="Accommodation" />
+        <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/facebook48"
+        android:title="Fb Page" />
+
+        <item
+            android:id="@+id/menu_reach"
+            android:icon="@drawable/reach"
+            android:title="Reach Us" />
+
+        <item
+            android:id="@+id/sust"
+            android:icon="@drawable/reach"
+            android:title="Date And Time" />
+
+
+
+
+    </group>
+    <group android:id="@+id/menu_group_2">
+
+
+        <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/contact"
+        android:title="Contact Us" />
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/us"
+            android:title="About CyberSrishti" />
+    </group>
+</menu>

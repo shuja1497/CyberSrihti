@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">jiit</string>
+    <string-array name="year">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+
+    </string-array>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_profile_photo">http://baobaoloveyou.com/flowingdrawer_icon.png</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="event_list">
+        <item>Select An Event</item>
+        <item>Event A</item>
+        <item>Event B</item>
+        <item>Event C</item>
+    </string-array>
+
+    <string-array name="person_name">
+        <item>"A"</item>
+        <item>"b"</item>
+        <item>"c"</item>
+        <item>"d"</item>
+        <item>"e"</item>
+    </string-array>
+
+    <string-array name="person_email">
+        <item>"A@abc.com"</item>
+        <item>"b@abc.com"</item>
+        <item>"c@abc.com"</item>
+        <item>"d@abc.com"</item>
+        <item>"e@abc.com"</item>
+    </string-array>
+
+    <string-array name="person_mobile">
+        <item>"12345"</item>
+        <item>"45678"</item>
+        <item>"10230"</item>
+        <item>"78965"</item>
+        <item>"14523"</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

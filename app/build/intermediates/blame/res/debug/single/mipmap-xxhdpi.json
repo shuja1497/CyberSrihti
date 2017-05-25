@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/calender2.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/mipmap-xxhdpi/calender2.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/hackathon.png",
+        "source": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/res/mipmap-xxhdpi/hackathon.png"
+    }
+]

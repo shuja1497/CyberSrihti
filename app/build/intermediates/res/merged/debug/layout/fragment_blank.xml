@@ -1,0 +1,1461 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layout_brown"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:cv="http://schemas.android.com/apk/res/android"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    >
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarAlwaysDrawVerticalTrack="true">
+
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:orientation="vertical">
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/quiz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/automation"
+
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textquiz"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+
+                        android:layout_centerVertical="true"
+                        android:fontFamily="casual"
+                        android:text="AUTOMATED-ROBOTIC CHALLENGE "
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="30dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton4"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:visibility="invisible"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/quiz"
+
+                        cv:layout_alignParentLeft="true"
+                        cv:layout_alignParentStart="true"
+                        cv:layout_alignParentTop="true"
+                        cv:layout_alignStart="@+id/quiz"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/circuit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp"
+
+                >
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+
+                        android:src="@mipmap/circuit_mania"
+                        android:scaleType="fitXY"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textcircuit"
+                        android:layout_width="match_parent"
+
+                        android:layout_height="match_parent"
+                        android:fontFamily="casual"
+                        android:text="CIRCUIT-MANIA"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true" />
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton5"
+                        android:visibility="invisible"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/circuit"
+                        cv:layout_alignParentTop="true"
+
+                        cv:layout_alignStart="@+id/circuit"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="10dp"                    android:layout_alignParentLeft="true"
+                android:layout_marginBottom="10dp"
+                android:clickable="true"
+                android:id="@+id/technical">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:id="@+id/imageView"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:src="@mipmap/code_of_codons"
+                        android:scaleType="fitXY"
+                        />
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000"
+                        />
+
+
+                    <TextView
+                        android:text="CODE OF  "
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="#ffffff"
+                        android:id="@+id/texttechnical"
+                        android:textStyle="normal|bold"
+                        android:fontFamily="casual"
+                        android:textSize="38dp"
+                        android:textAlignment="center"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:clickable="true"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#ffffff"
+                        android:text="CODONS"
+                        android:id="@+id/text"
+                        android:textStyle="normal|bold"
+                        android:fontFamily="casual"
+                        android:textSize="38dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="16dp" />
+                    <ImageButton
+
+                        android:background="@drawable/alarm"
+                        android:visibility="invisible"
+
+                        cv:id="@+id/alarmButton15"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true" />
+
+                    <ImageView
+
+                        app:srcCompat="@android:drawable/ic_notification_overlay"
+                        cv:layout_alignParentLeft="true"
+                        cv:layout_alignParentStart="true"
+                        cv:id="@+id/imageView17"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"                            android:visibility="invisible"
+
+                        />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/debugging"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="108dp">
+
+                    <!--         cv:srcCompat="@drawable/back"-->
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+
+                        android:clickable="true"
+                        android:src="@mipmap/debug"
+                        android:scaleType="fitXY"
+
+
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textdebugging"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignBottom="@+id/imageView"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:fontFamily="casual"
+
+                        android:text="CODE SIMULATE DEBUG"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageButton
+                        android:visibility="invisible"
+
+                        cv:id="@+id/alarmButton7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/circuit"
+                        cv:layout_alignParentTop="true"
+
+                        cv:layout_alignStart="@+id/circuit"
+
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/creative"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="108dp">
+
+
+                    <!--         cv:srcCompat="@drawable/back"-->
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:clickable="true"
+                        android:src="@mipmap/creative"
+                        android:scaleType="fitXY"
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textcreative"
+                        android:layout_width="match_parent"
+
+                        android:layout_height="match_parent"
+                        android:fontFamily="casual"
+                        android:text="CREATIVE"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton11"
+                        android:visibility="invisible"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <TextView
+                        android:id="@+id/text1"
+                        android:layout_width="match_parent"
+                        android:layout_height="41dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+
+                        android:layout_alignParentStart="true"
+                        android:layout_marginBottom="19dp"
+                        android:fontFamily="casual"
+                        android:text="DESIGN"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignParentLeft="true"
+
+                        cv:layout_alignParentStart="true"
+                        cv:layout_alignParentTop="true"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/scavenger"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_below="@+id/text"
+                        android:src="@mipmap/develop"
+                        android:scaleType="fitXY"
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textscavenger"
+                        android:layout_width="match_parent"
+
+
+                        android:layout_height="match_parent"
+                        android:fontFamily="casual"
+                        android:text="DESIGN DEVELOP "
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="41dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginBottom="14dp"
+                        android:fontFamily="casual"
+                        android:text="DEFEAT "
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton12"
+                        android:visibility="invisible"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignStart="@+id/scavenger"
+                        cv:layout_alignParentLeft="true"
+                        cv:layout_alignParentStart="true"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/execute"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="10dp"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="108dp">
+
+                    <!--         cv:srcCompat="@drawable/back"-->
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="true"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/execute"
+
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+
+                    <TextView
+                        android:id="@+id/textexecute"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:clickable="true"
+                        android:fontFamily="casual"
+                        android:text="EXECUTE"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="50dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton2"
+                        android:visibility="invisible"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/execute"
+                        cv:layout_alignParentTop="true"
+                        cv:layout_alignStart="@+id/execute"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/hack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="10dp"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="108dp"
+                    android:clickable="true">
+
+                    <!--         cv:srcCompat="@drawable/back"-->
+
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="true"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/hackathon" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000"
+                        android:clickable="true" />
+
+
+                    <TextView
+                        android:id="@+id/texthack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:clickable="true"
+
+                        android:fontFamily="casual"
+                        android:text="HACKATHON"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="50dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageButton
+                        android:visibility="invisible"
+
+                        cv:id="@+id/alarmButton1"
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+
+                    <ImageView
+                        cv:id="@+id/ImageView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/hack"
+                        cv:layout_alignParentTop="true"
+                        cv:layout_alignStart="@+id/hack"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginBottom="10dp"
+                android:clickable="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="10dp"
+                android:layout_alignParentEnd="true"
+                android:id="@+id/multimedia">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:id="@+id/imageView"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/text"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:src="@mipmap/hydrophilic"
+                        android:scaleType="fitXY"
+                        />
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000"
+                        />
+
+
+
+                    <TextView
+                        android:text="HYDROPHILIC "
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/textmul"
+                        android:textColor="#ffffff"
+                        android:textStyle="normal|bold"
+                        android:textSize="38dp"
+                        android:fontFamily="casual"
+                        android:textAlignment="center"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true" />
+
+                    <ImageButton
+                        android:visibility="invisible"
+
+                        android:background="@drawable/alarm"
+                        cv:id="@+id/alarmButton16"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true" />
+
+                    <ImageView
+
+                        app:srcCompat="@android:drawable/ic_notification_overlay"
+                        cv:layout_alignParentTop="true"
+                        cv:layout_alignParentLeft="true"
+                        cv:layout_alignParentStart="true"
+                        android:visibility="invisible"
+                        cv:id="@+id/imageView18"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/robot"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+
+                android:layout_alignParentTop="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="108dp">
+
+
+                    <!--         cv:srcCompat="@drawable/back"-->
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:clickable="true"
+
+                        android:src="@mipmap/jpl"
+                        android:scaleType="fitXY"
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+
+                    <TextView
+                        android:id="@+id/textrobot"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:fontFamily="casual"
+                        android:text="JAYPEE-PREMIER"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:id="@+id/text1"
+                        android:layout_width="match_parent"
+                        android:layout_height="41dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+
+                        android:layout_alignParentStart="true"
+                        android:fontFamily="casual"
+                        android:text="LEAGUE"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton8"
+                        android:visibility="invisible"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        cv:layout_alignParentLeft="true"
+
+                        cv:layout_alignParentStart="true"
+
+
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/paper"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/poster"
+                android:layout_alignParentEnd="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="108dp">
+
+
+                    <!--         cv:srcCompat="@drawable/back"-->
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:src="@mipmap/paper"
+                        android:scaleType="fitXY"
+                        android:clickable="true" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textpaper"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentTop="true"
+                        android:fontFamily="casual"
+                        android:text="PAPER"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold"
+
+
+                        />
+
+                    <TextView
+                        android:id="@+id/text1"
+                        android:layout_width="match_parent"
+                        android:layout_height="41dp"
+                        android:layout_alignBottom="@+id/textpaper"
+                        android:fontFamily="casual"
+                        android:text="PRESENTATION"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton10"
+                        android:visibility="invisible"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+
+                    <ImageView
+
+                        cv:id="@+id/imageView12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/paper"
+                        cv:layout_alignParentTop="true"
+
+                        cv:layout_alignStart="@+id/paper"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/exhibition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp"
+
+                >
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:src="@mipmap/project"
+                        android:scaleType="fitXY"
+                        android:clickable="true"
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textpro"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:fontFamily="casual"
+                        android:text="PROJECT"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="match_parent"
+                        android:layout_height="41dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginBottom="23dp"
+                        android:fontFamily="casual"
+                        android:text="EXHIBITION"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton13"
+                        android:visibility="invisible"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView15"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/exhibition"
+                        cv:layout_alignParentTop="true"
+
+                        cv:layout_alignStart="@+id/exhibition"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/debate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+                    <ImageView
+                        android:id="@+id/debimg"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:src="@mipmap/debate"
+                        android:scaleType="fitXY"
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textdebate"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:fontFamily="casual"
+                        android:text="SOCIO TECHNICAL DEBATE "
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="30dp"
+                        android:textStyle="normal|bold" />
+
+
+                    <ImageButton
+                        android:visibility="invisible"
+
+                        cv:id="@+id/alarmButton3"
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/debate"
+                        cv:layout_alignParentTop="true"
+
+                        cv:layout_alignStart="@+id/debate"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/startup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+
+                        android:src="@mipmap/startup"
+                        android:scaleType="fitXY"
+
+                        android:layout_alignParentTop="true" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+                    <TextView
+                        android:id="@+id/textstartup"
+                        android:layout_width="match_parent"
+
+                        android:layout_height="match_parent"
+                        android:layout_centerHorizontal="true"
+                        android:fontFamily="casual"
+                        android:text="START-UP WEEKEND "
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="38dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton6"
+                        android:visibility="invisible"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@+id/startup"
+                        android:layout_alignStart="@+id/startup"
+                        cv:layout_alignParentLeft="true"
+                        cv:layout_alignParentStart="true"
+                        cv:layout_alignParentTop="true"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+<!--
+            <android.support.v7.widget.CardView
+                android:id="@+id/poster"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="108dp">
+
+
+
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:src="@mipmap/photoshop"
+                        android:scaleType="fitXY"
+                        android:clickable="true" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+
+                    <TextView
+                        android:id="@+id/textposter"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:fontFamily="casual"
+                        android:text="PHOTOSHOP"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="40dp"
+                        android:textStyle="normal|bold" />
+
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton9"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+                    <ImageView
+
+                        cv:id="@+id/imageView11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignLeft="@+id/poster"
+
+                        cv:layout_alignParentTop="true"
+                        cv:layout_alignStart="@+id/poster"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+            -->
+
+
+
+
+            <!--
+            <android.support.v7.widget.CardView
+                android:id="@+id/bio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="@dimen/cardview_margin_start"
+                android:clickable="true"
+                android:orientation="horizontal"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="108dp">
+
+                    <ImageView
+                        android:id="@+id/imageView"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+
+                        android:layout_below="@+id/bio"
+                        android:src="@mipmap/bio"
+                        android:scaleType="fitXY"
+
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="0.3"
+                        android:background="#000000" />
+
+
+                    <TextView
+                        android:id="@+id/textbio"
+                        android:layout_width="match_parent"
+
+                        android:layout_height="match_parent"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:fontFamily="casual"
+                        android:text="BIO-"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="30dp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="41dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginBottom="23dp"
+                        android:fontFamily="casual"
+                        android:text="INFORMATICS"
+                        android:textAlignment="center"
+                        android:textColor="#ffffff"
+                        android:textSize="30dp"
+                        android:textStyle="normal|bold" />
+
+                    <ImageButton
+
+                        cv:id="@+id/alarmButton14"
+
+                        style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:background="@drawable/alarm" />
+
+
+                    <ImageView
+
+                        cv:id="@+id/imageView16"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        cv:layout_alignParentLeft="true"
+
+                        cv:layout_alignParentStart="true"
+
+                        cv:layout_alignParentTop="true"
+                        android:visibility="invisible"
+                        app:srcCompat="@android:drawable/ic_notification_overlay" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+-->
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</FrameLayout>

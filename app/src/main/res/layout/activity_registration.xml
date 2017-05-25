@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout android:id="@+id/activity_main"
+        android:paddingBottom="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context="com.shreybatra.form.MainActivity"
+        android:background="@drawable/gd4">
+
+        <TextView
+            android:id="@+id/RegisterationForm"
+            android:text="Registeration Form"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:textSize="36dp"
+            android:textColor="@android:color/background_light" />
+
+        <TextView
+            android:text="Please Fill The Form"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/RegisterationForm"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:textSize="25dp"
+            android:id="@+id/Tm"
+            android:backgroundTint="@android:color/background_light"
+            android:textColor="@android:color/background_light" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EVENT NAME"
+            android:textSize="20dp"
+            android:textColor="#fff"
+            android:id="@+id/event_name"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/Tm"/>
+
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="350dp"
+            android:inputType="textPersonName"
+            android:hint="Enter College Name"
+            android:ems="10"
+            android:layout_below="@+id/event_name"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/college"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="350dp"
+            android:inputType="textPersonName"
+            android:hint="Enter Team Name"
+            android:ems="10"
+            android:layout_below="@+id/college"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/team"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="350dp"
+            android:inputType="textPersonName"
+            android:hint="Name"
+            android:ems="10"
+            android:layout_below="@+id/team"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/Name"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="350dp"
+            android:inputType="textPersonName"
+            android:hint="Phone Numbner"
+            android:ems="10"
+            android:layout_below="@+id/Name"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:id="@+id/Phone"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+
+
+
+
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Email"
+            android:ems="10"
+            android:layout_below="@+id/Phone"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:width="350dp"
+            android:id="@+id/Name1"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Year(eg 1st,3rd,2nd,4th)"
+            android:ems="10"
+            android:layout_below="@+id/Name1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:width="350dp"
+            android:id="@+id/Enrollment1"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+
+<EditText
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:inputType="textPersonName"
+    android:hint="Name of second member"
+    android:ems="10"
+    android:layout_below="@+id/spinner"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="10dp"
+    android:width="350dp"
+    android:id="@+id/member2"
+    android:textSize="20dp"
+    android:gravity="center"
+    android:backgroundTint="@android:color/background_light"
+    android:textColorHint="@android:color/background_light" />
+        />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Name of third member"
+            android:ems="10"
+            android:layout_below="@+id/member2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:width="350dp"
+            android:id="@+id/member3"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+        />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Name of fourth member"
+            android:ems="10"
+            android:layout_below="@+id/member3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:width="350dp"
+            android:id="@+id/member4"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NO of Team Members"
+            android:layout_below="@+id/Name1"
+            android:layout_centerHorizontal="true"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:layout_marginBottom="10dp"
+            />
+        <Spinner
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/Enrollment1"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:foregroundTint="#585252"
+            android:background="#595656"
+            >
+
+        </Spinner>
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/member4"
+            android:text="Submit"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:id="@+id/submit"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thank You For Registering"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/submit"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="@android:color/background_light"/>
+
+    </RelativeLayout>
+</ScrollView>

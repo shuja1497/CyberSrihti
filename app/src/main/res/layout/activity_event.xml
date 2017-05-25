@@ -1,0 +1,661 @@
+<FrameLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layout_brown"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:cv="http://schemas.android.com/apk/res/android"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    >
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarAlwaysDrawVerticalTrack="true">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/automation" />
+
+                    <TextView
+                        android:id="@+id/cb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Automated Robotic Challenge "
+
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev1"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/code_of_codons" />
+
+                    <TextView
+                        android:id="@+id/cb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Code of Codons"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev3"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view3"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/circuit_mania" />
+
+                    <TextView
+                        android:id="@+id/cb3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Circuit Mania"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev4"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/creative" />
+
+                    <TextView
+                        android:id="@+id/cb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Creative Design"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev5"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/debate" />
+
+                    <TextView
+                        android:id="@+id/cb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Socio Technical
+Debate"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev6"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view4"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/debug" />
+
+                    <TextView
+                        android:id="@+id/cb4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toEndOf="@+id/person_image"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Code Simulate
+Debug"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev7"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/execute" />
+
+                    <TextView
+                        android:id="@+id/cb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Execute"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev8"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view5"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/hydrophilic" />
+
+                    <TextView
+                        android:id="@+id/cb5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
+                        android:layout_toEndOf="@+id/person_image"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Hydrophilic"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev9"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/hackathon"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true" />
+
+                    <TextView
+                        android:id="@+id/cb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Hackathon"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev10"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view6"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/jpl" />
+
+                    <TextView
+                        android:id="@+id/cb6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="J.P.L"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev11"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/develop" />
+
+                    <TextView
+                        android:id="@+id/cb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
+                        android:layout_toEndOf="@+id/person_image"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Design Develop
+Defeat"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev12"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view7"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/paper" />
+
+                    <TextView
+                        android:id="@+id/cb7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Paper Presentation"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev13"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view8"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/startup" />
+
+                    <TextView
+                        android:id="@+id/cb8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Startup Weekend"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev14"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp">
+
+
+                    <ImageView
+                        android:id="@+id/person_image"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/project" />
+
+                    <TextView
+                        android:id="@+id/cb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/person_image"
+                        android:text="Project Exhibition"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <ImageButton
+                        android:id="@+id/ev15"
+                        android:layout_width="50dp"
+                        android:layout_height="400dp"
+                        android:layout_alignParentRight="true"
+                        android:clickable="true"
+                        android:src="@drawable/ic_menu_send" />
+
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</FrameLayout>

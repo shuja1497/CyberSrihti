@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "518504815226",
+    "firebase_url": "https://cybersrishti-final.firebaseio.com",
+    "project_id": "cybersrishti-final",
+    "storage_bucket": "cybersrishti-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518504815226:android:e5930e7f5ce1e3df",
+        "android_client_info": {
+          "package_name": "p2_vaio.jiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518504815226-tl9vdo6mdnj5ggk876ur7on9hei6tutm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdswgIyo5-QmICt6rCte_WtCufcmplrGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

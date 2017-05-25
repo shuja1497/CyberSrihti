@@ -1,0 +1,559 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:2:1-84:12
+	package
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:11:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/shujareshi/.android/build-cache/7b0c5e5bcb2464f8fbd97ebd0d56755efe4f12c9/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/shujareshi/.android/build-cache/53d11d750f1bf1a1c50019c0b5ae084f2725a673/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/shujareshi/.android/build-cache/db01d67184dfeb6ba2db1173057a083fe62eee14/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/shujareshi/.android/build-cache/67f4702862d658f314616bb4cc915a51db580546/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/64c5f6e88440c4f806c89eae98cd77a40c51f389/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/shujareshi/.android/build-cache/efce86eb6e2e1937417f0be2902b62bfee8d3709/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/6a3e19f01e8746453adcbc5f3c4fbb16042460ab/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:12:22-78
+application
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:14:5-82:19
+MERGED from [com.android.support:design:25.1.0] /home/shujareshi/.android/build-cache/a9f6dde060308383144a1f159a665ba3852c4b0f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/shujareshi/.android/build-cache/2e8e2164049d3976c7e1f050b3961e68641e4a8d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:gridlayout-v7:25.1.0] /home/shujareshi/.android/build-cache/8daa80cf51ad7fbb86c9731832c7d833b67704ba/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/shujareshi/.android/build-cache/9ccab7e41af9fe98d146f3c625e0d0b641dcc89c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/shujareshi/.android/build-cache/8239afdf728ad542165b67c858ef8355b1a53c19/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:10.0.1] /home/shujareshi/.android/build-cache/4d3dce8cc870e1bca03408cb2b6633a8ef865a16/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/shujareshi/.android/build-cache/7b0c5e5bcb2464f8fbd97ebd0d56755efe4f12c9/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /home/shujareshi/.android/build-cache/be10b07a752e7530cfe6046f6525047e53701bb5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /home/shujareshi/.android/build-cache/7ae0d6bf788d1b2600938ef2e78e10dd1e5f7ede/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/shujareshi/.android/build-cache/f6a106eb36e5b93cfe403d5485696ffecd2cce07/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/shujareshi/.android/build-cache/9826cee6212d1b57e8e0af0de001a41492188cad/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /home/shujareshi/.android/build-cache/0c752bc5716164a22df7ec987b9a9c6cd79116ed/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] /home/shujareshi/.android/build-cache/f2e16ce643cfcb165be0237f9bf71b6460223afe/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /home/shujareshi/.android/build-cache/0d1ba5bff483704483c05fcca508df243f1778fc/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/shujareshi/.android/build-cache/53d11d750f1bf1a1c50019c0b5ae084f2725a673/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/shujareshi/.android/build-cache/4a621bf75759d63deac5c9fdf5518cdcf277409e/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/shujareshi/.android/build-cache/2808611de7ef471913fa3a28da8c35e7fd6202e9/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/shujareshi/.android/build-cache/f78c0e86aa6d510ca29066825bddf9a12076b38c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /home/shujareshi/.android/build-cache/966a5d8c54148785536eae6bfaa39c3f8496feba/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /home/shujareshi/.android/build-cache/8a7a48a6aae11d36a3cb2225acf96aabe2362b91/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /home/shujareshi/.android/build-cache/814c29fcf587f37c1ded251c6a83aedcf3d75238/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/shujareshi/.android/build-cache/db01d67184dfeb6ba2db1173057a083fe62eee14/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /home/shujareshi/.android/build-cache/ea72dfdeec912fa4cea38bca653ffc96db014f2b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/shujareshi/.android/build-cache/67f4702862d658f314616bb4cc915a51db580546/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/shujareshi/.android/build-cache/62c12dfea6c2c720cd7612c59bc37fb17199cd6e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/shujareshi/.android/build-cache/e6d579908c3897d68385fce5940b620f3835f1dd/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /home/shujareshi/.android/build-cache/d3a137c1aba5099d8963fd39eb63956df4b7e32b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/shujareshi/.android/build-cache/b5f123793662ecf983740a62433bc19f0f3d6816/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/shujareshi/.android/build-cache/1e96449f323a6033f2eac2bedc48ce59fb689e2f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /home/shujareshi/.android/build-cache/4dc9015c454ea224714a8d0670ca275d6bcd4221/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/shujareshi/.android/build-cache/cb0a59f2f3511f7bd9fae91ac7519f3f8a1ad371/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/64c5f6e88440c4f806c89eae98cd77a40c51f389/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/shujareshi/.android/build-cache/968f1b886b710bb19ecda0f3bc38ff65c37248c4/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /home/shujareshi/.android/build-cache/2b521a23c20c1c414225eb12610d9b6f4f8d7f22/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/shujareshi/.android/build-cache/efce86eb6e2e1937417f0be2902b62bfee8d3709/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/shujareshi/.android/build-cache/f1cb7eb75b6b08f16591a4df8a296bb39b53642e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/shujareshi/.android/build-cache/d90e3104c81744b1ea20713fd35d96caa74fe0c5/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/6a3e19f01e8746453adcbc5f3c4fbb16042460ab/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/shujareshi/.android/build-cache/c05173b3f4ae00096a842db2dee98eb383282659/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/shujareshi/.android/build-cache/d81488bbe9c12167575e45f296f8984aab6547cb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/shujareshi/.android/build-cache/8707be0f7bd436627f60e2e114a921a5992e0ac4/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.0] /home/shujareshi/.android/build-cache/552583b93a279ffc4bcf7b71d98e3f0c75c6670f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/shujareshi/.android/build-cache/52e5cf6fa5c93acb5801d951f1f696e0db59ec4b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/shujareshi/.android/build-cache/9e72257ad9ee0fc81491f72c6699cbb18c6b44e7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/shujareshi/.android/build-cache/817c50759115bda42958a7442aad1d6c50de758f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/shujareshi/.android/build-cache/1d9288eef247c299f5c226fb473e49da397724ae/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/shujareshi/.android/build-cache/51d7ee344c01c0bb7a0156b11d24857906863eea/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:17:9-42
+	android:supportsRtl
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:16:9-56
+	android:largeHeap
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:18:9-33
+	android:theme
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:20:9-40
+activity#p2_vaio.jiit.MainActivity
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:23:13-51
+	android:theme
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:28:27-74
+activity#p2_vaio.jiit.hackathon
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:31:9-47
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:31:19-44
+activity#p2_vaio.jiit.execute
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:32:9-45
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:32:19-42
+activity#p2_vaio.jiit.develop
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:33:9-45
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:33:19-42
+activity#p2_vaio.jiit.debate
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:34:9-44
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:34:19-41
+activity#p2_vaio.jiit.automation
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:35:19-45
+activity#p2_vaio.jiit.circuit
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:36:9-45
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:36:19-42
+activity#p2_vaio.jiit.startup
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:37:9-45
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:37:19-42
+activity#p2_vaio.jiit.debug
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:38:9-43
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:38:19-40
+activity#p2_vaio.jiit.jpl
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:39:9-41
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:39:19-38
+activity#p2_vaio.jiit.photoshop
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:40:9-47
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:40:19-44
+activity#p2_vaio.jiit.paper
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:41:9-43
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:41:19-40
+activity#p2_vaio.jiit.creative
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:42:9-46
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:42:19-43
+activity#p2_vaio.jiit.project
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:43:9-45
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:43:19-42
+activity#p2_vaio.jiit.bio
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:44:9-41
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:44:19-38
+activity#p2_vaio.jiit.codeofcodons
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:45:9-50
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:45:19-47
+activity#p2_vaio.jiit.hydrophilic
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:46:9-49
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:46:19-46
+activity#p2_vaio.jiit.registration
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:47:9-50
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:47:19-47
+activity#p2_vaio.jiit.Event
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:48:9-43
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:48:19-40
+activity#p2_vaio.jiit.FBpage
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:49:9-44
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:49:19-41
+activity#p2_vaio.jiit.Contact_us
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:50:9-48
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:50:19-45
+activity#p2_vaio.jiit.AboutUs
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:51:9-45
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:51:19-42
+activity#p2_vaio.jiit.Accomodationform
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:52:9-54
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:52:19-51
+service#p2_vaio.jiit.MyFirebaseInstanceIdService
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:55:9-65:19
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:55:18-61
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:56:13-58:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:57:17-80
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:57:25-77
+service#p2_vaio.jiit.MyFirebaseMessagingService
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:60:13-64:23
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:60:22-64
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:61:17-63:33
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:62:21-82
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:62:29-79
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:74:9-76:55
+	android:value
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:76:13-52
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:75:13-58
+activity#p2_vaio.jiit.MapsActivity
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:78:9-80:59
+	android:label
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:80:13-56
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:79:13-41
+activity#p2_vaio.jiit.sustainability
+ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:81:9-61
+	android:name
+		ADDED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml:81:19-49
+uses-sdk
+INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/shujareshi/.android/build-cache/004a62329ad236de44173732d0442fc2b35a5f81/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.1.0] /home/shujareshi/.android/build-cache/a9f6dde060308383144a1f159a665ba3852c4b0f/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/shujareshi/.android/build-cache/7ff8b2c9aa393f331c4d25ceef474fcf6a2c9d79/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] /home/shujareshi/.android/build-cache/2e8e2164049d3976c7e1f050b3961e68641e4a8d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:25.1.0] /home/shujareshi/.android/build-cache/8daa80cf51ad7fbb86c9731832c7d833b67704ba/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/shujareshi/.android/build-cache/9ccab7e41af9fe98d146f3c625e0d0b641dcc89c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] /home/shujareshi/.android/build-cache/35ffc829aa3d2f5ede06d6e2a48d6b959757671d/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.0.0] /home/shujareshi/.android/build-cache/8239afdf728ad542165b67c858ef8355b1a53c19/output/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services:10.0.1] /home/shujareshi/.android/build-cache/4d3dce8cc870e1bca03408cb2b6633a8ef865a16/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /home/shujareshi/.android/build-cache/2b8248542fb56cbfc50bbe31841eb88e5b0cb463/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/shujareshi/.android/build-cache/7b0c5e5bcb2464f8fbd97ebd0d56755efe4f12c9/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /home/shujareshi/.android/build-cache/76f8a6414adb9a23b1948c14606e2f0d158755d5/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /home/shujareshi/.android/build-cache/be10b07a752e7530cfe6046f6525047e53701bb5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/shujareshi/.android/build-cache/7ae0d6bf788d1b2600938ef2e78e10dd1e5f7ede/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/shujareshi/.android/build-cache/56cdef27d5a3d23fa108de12a9363e4b9a309980/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/shujareshi/.android/build-cache/f6a106eb36e5b93cfe403d5485696ffecd2cce07/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/shujareshi/.android/build-cache/9826cee6212d1b57e8e0af0de001a41492188cad/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /home/shujareshi/.android/build-cache/0c752bc5716164a22df7ec987b9a9c6cd79116ed/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] /home/shujareshi/.android/build-cache/f2e16ce643cfcb165be0237f9bf71b6460223afe/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /home/shujareshi/.android/build-cache/0d1ba5bff483704483c05fcca508df243f1778fc/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/shujareshi/.android/build-cache/53d11d750f1bf1a1c50019c0b5ae084f2725a673/output/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/shujareshi/.android/build-cache/4a621bf75759d63deac5c9fdf5518cdcf277409e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/shujareshi/.android/build-cache/f2824b836bf967a96b9bc02b9f49e91b4a9902bd/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/shujareshi/.android/build-cache/fdb17ee43eb341e6c4165511733b912a8c83edf9/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/shujareshi/.android/build-cache/2808611de7ef471913fa3a28da8c35e7fd6202e9/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/shujareshi/.android/build-cache/1bc5d85e91d34004b11693ed2a3d98fab49b522d/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/shujareshi/.android/build-cache/2531a0fa22529e989fcb4da8807572bf61b9d783/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/shujareshi/.android/build-cache/f78c0e86aa6d510ca29066825bddf9a12076b38c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /home/shujareshi/.android/build-cache/966a5d8c54148785536eae6bfaa39c3f8496feba/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /home/shujareshi/.android/build-cache/8a7a48a6aae11d36a3cb2225acf96aabe2362b91/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /home/shujareshi/.android/build-cache/814c29fcf587f37c1ded251c6a83aedcf3d75238/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/shujareshi/.android/build-cache/db01d67184dfeb6ba2db1173057a083fe62eee14/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /home/shujareshi/.android/build-cache/ea72dfdeec912fa4cea38bca653ffc96db014f2b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/shujareshi/.android/build-cache/67f4702862d658f314616bb4cc915a51db580546/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] /home/shujareshi/.android/build-cache/697c4b6669837415fba6908bda73b188dfd81121/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/shujareshi/.android/build-cache/62c12dfea6c2c720cd7612c59bc37fb17199cd6e/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/shujareshi/.android/build-cache/e6d579908c3897d68385fce5940b620f3835f1dd/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /home/shujareshi/.android/build-cache/d3a137c1aba5099d8963fd39eb63956df4b7e32b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/shujareshi/.android/build-cache/b5f123793662ecf983740a62433bc19f0f3d6816/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/shujareshi/.android/build-cache/1e96449f323a6033f2eac2bedc48ce59fb689e2f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /home/shujareshi/.android/build-cache/4dc9015c454ea224714a8d0670ca275d6bcd4221/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] /home/shujareshi/.android/build-cache/50ac5e2e051cb6caeaa9838ac77e6d39fa6a7acd/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/shujareshi/.android/build-cache/cb0a59f2f3511f7bd9fae91ac7519f3f8a1ad371/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/64c5f6e88440c4f806c89eae98cd77a40c51f389/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/shujareshi/.android/build-cache/968f1b886b710bb19ecda0f3bc38ff65c37248c4/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] /home/shujareshi/.android/build-cache/bdc5ac2bf8ea8a41c09e6876b4327783a1c53d98/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /home/shujareshi/.android/build-cache/2b521a23c20c1c414225eb12610d9b6f4f8d7f22/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/shujareshi/.android/build-cache/efce86eb6e2e1937417f0be2902b62bfee8d3709/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/shujareshi/.android/build-cache/f1cb7eb75b6b08f16591a4df8a296bb39b53642e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/shujareshi/.android/build-cache/d90e3104c81744b1ea20713fd35d96caa74fe0c5/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/6a3e19f01e8746453adcbc5f3c4fbb16042460ab/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/shujareshi/.android/build-cache/c05173b3f4ae00096a842db2dee98eb383282659/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/shujareshi/.android/build-cache/d81488bbe9c12167575e45f296f8984aab6547cb/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/shujareshi/.android/build-cache/8707be0f7bd436627f60e2e114a921a5992e0ac4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.0] /home/shujareshi/.android/build-cache/552583b93a279ffc4bcf7b71d98e3f0c75c6670f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/shujareshi/.android/build-cache/52e5cf6fa5c93acb5801d951f1f696e0db59ec4b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/shujareshi/.android/build-cache/9e72257ad9ee0fc81491f72c6699cbb18c6b44e7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/shujareshi/.android/build-cache/817c50759115bda42958a7442aad1d6c50de758f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/shujareshi/.android/build-cache/1d9288eef247c299f5c226fb473e49da397724ae/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/shujareshi/.android/build-cache/51d7ee344c01c0bb7a0156b11d24857906863eea/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /home/shujareshi/.android/build-cache/a9f6dde060308383144a1f159a665ba3852c4b0f/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/shujareshi/.android/build-cache/7b0c5e5bcb2464f8fbd97ebd0d56755efe4f12c9/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/shujareshi/.android/build-cache/e6d579908c3897d68385fce5940b620f3835f1dd/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/64c5f6e88440c4f806c89eae98cd77a40c51f389/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/shujareshi/.android/build-cache/efce86eb6e2e1937417f0be2902b62bfee8d3709/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/6a3e19f01e8746453adcbc5f3c4fbb16042460ab/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/shujareshi/.android/build-cache/c874861308055a9be164293534b4082eabe51f7f/output/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] /home/shujareshi/.android/build-cache/7b0c5e5bcb2464f8fbd97ebd0d56755efe4f12c9/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/64c5f6e88440c4f806c89eae98cd77a40c51f389/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/6a3e19f01e8746453adcbc5f3c4fbb16042460ab/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] /home/shujareshi/.android/build-cache/7b0c5e5bcb2464f8fbd97ebd0d56755efe4f12c9/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/shujareshi/.android/build-cache/0220b867399efb2322cffaad30601d695e64dd7b/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/shujareshi/.android/build-cache/ffbf74854b8ee975fcbca1105cc1feef5ea76c6a/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/shujareshi/.android/build-cache/ce1d656f72e2b1344124dbb16c5b251a76568230/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/shujareshi/.android/build-cache/2808611de7ef471913fa3a28da8c35e7fd6202e9/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/shujareshi/.android/build-cache/2808611de7ef471913fa3a28da8c35e7fd6202e9/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/shujareshi/.android/build-cache/2808611de7ef471913fa3a28da8c35e7fd6202e9/output/AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /home/shujareshi/.android/build-cache/db01d67184dfeb6ba2db1173057a083fe62eee14/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/shujareshi/.android/build-cache/67f4702862d658f314616bb4cc915a51db580546/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /home/shujareshi/.android/build-cache/db01d67184dfeb6ba2db1173057a083fe62eee14/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/shujareshi/.android/build-cache/2f60a27bdfed2a9ebd912de28705a06306e9aee5/output/AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/shujareshi/.android/build-cache/efce86eb6e2e1937417f0be2902b62bfee8d3709/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/shujareshi/.android/build-cache/efce86eb6e2e1937417f0be2902b62bfee8d3709/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/shujareshi/.android/build-cache/efce86eb6e2e1937417f0be2902b62bfee8d3709/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/shujareshi/.android/build-cache/e907c564a9cfbfd2be3cd0acd59420f7ad400f2d/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/6a3e19f01e8746453adcbc5f3c4fbb16042460ab/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/shujareshi/.android/build-cache/6a3e19f01e8746453adcbc5f3c4fbb16042460ab/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/shujareshi/.android/build-cache/45c268d47dc572c0046cabef904b93121f052d63/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/shujareshi/.android/build-cache/23f4667b3e3beae5d3255a630668d0aaa306ec34/output/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/shujareshi/.android/build-cache/c05173b3f4ae00096a842db2dee98eb383282659/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/shujareshi/.android/build-cache/c05173b3f4ae00096a842db2dee98eb383282659/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/shujareshi/.android/build-cache/c05173b3f4ae00096a842db2dee98eb383282659/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/shujareshi/.android/build-cache/c05173b3f4ae00096a842db2dee98eb383282659/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/shujareshi/.android/build-cache/c05173b3f4ae00096a842db2dee98eb383282659/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/shujareshi/.android/build-cache/8707be0f7bd436627f60e2e114a921a5992e0ac4/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/shujareshi/.android/build-cache/8707be0f7bd436627f60e2e114a921a5992e0ac4/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/shujareshi/.android/build-cache/8707be0f7bd436627f60e2e114a921a5992e0ac4/output/AndroidManifest.xml:20:20-65

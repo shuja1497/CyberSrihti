@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/shujareshi/AndroidStudioProjects/CyberSrishti/jiit2/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/shujareshi/.android/build-cache/1a72ae68e035f18c72eb71fdaad3c5cdf9702fce/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

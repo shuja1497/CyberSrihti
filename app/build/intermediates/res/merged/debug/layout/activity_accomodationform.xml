@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout android:id="@+id/activity_main"
+        android:paddingBottom="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context="com.shreybatra.form.MainActivity"
+        android:background="@drawable/gd4">
+
+        <TextView
+            android:id="@+id/RegisterationForm"
+            android:text="Registeration Form"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:textSize="36dp"
+            android:textColor="@android:color/background_light" />
+
+        <TextView
+            android:text="Please Fill The Form"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/RegisterationForm"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:textSize="25dp"
+            android:id="@+id/Tm"
+            android:backgroundTint="@android:color/background_light"
+            android:textColor="@android:color/background_light" />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="350dp"
+            android:inputType="textPersonName"
+            android:hint="Enter Name"
+            android:ems="10"
+            android:layout_below="@+id/Tm"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="45dp"
+            android:id="@+id/collegea"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="350dp"
+            android:inputType="textPersonName"
+            android:hint="Enter Team Name"
+            android:ems="10"
+            android:layout_below="@+id/collegea"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="35dp"
+            android:id="@+id/teama"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="350dp"
+            android:inputType="textPersonName"
+            android:hint="Enter College Name"
+            android:ems="10"
+            android:layout_below="@+id/teama"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="35dp"
+            android:id="@+id/Namea"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="350dp"
+            android:inputType="textPersonName"
+            android:hint="Phone Numbner"
+            android:ems="10"
+            android:layout_marginTop="35dp"
+            android:id="@+id/Phonea"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light"
+            android:layout_below="@+id/Namea"
+            android:layout_alignLeft="@+id/Namea"
+            android:layout_alignStart="@+id/Namea" />
+
+
+
+
+
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Email"
+            android:ems="10"
+            android:layout_below="@+id/Phonea"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="35dp"
+            android:width="350dp"
+            android:id="@+id/Name1a"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:backgroundTint="@android:color/background_light"
+            android:textColorHint="@android:color/background_light" />
+
+
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/Name1a"
+            android:text="Submit"
+            android:layout_marginTop="60dp"
+            android:gravity="center"
+            android:textSize="20dp"
+
+            android:id="@+id/submit"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thank You For Registering"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/submit"
+            android:layout_marginTop="60dp"
+            android:gravity="center"
+            android:textSize="20dp"
+
+            android:textColor="@android:color/background_light"/>
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" android:title="Hubs">
+        <item
+        android:id="@+id/event"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Events" />
+        <item
+            android:id="@+id/FBpage"
+            android:icon="@drawable/ic_menu_send"
+            android:title="FB Page" />
+        <item
+            android:id="@+id/lectures"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Lectures" />
+        <item
+            android:id="@+id/workshops"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Workshops" />
+        <item
+            android:id="@+id/accomodation"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Accomodation" />
+        <item
+            android:id="@+id/contactus"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Contact Us" />
+        <!--item
+            android:id="@+id/uCR"
+            android:icon="@drawable/ic_menu_share"
+            android:title="uCR" />
+        <item
+            android:id="@+id/IEEE"
+            android:icon="@drawable/ic_menu_share"
+            android:title="IEEE" />
+        <item
+            android:id="@+id/Knuth"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Knuth" />
+        <item
+            android:id="@+id/GDG"
+            android:icon="@drawable/ic_menu_share"
+            android:title="GDG" /-->
+    </group>
+
+    <!--item android:title="Event">
+        <menu>
+            <item
+                android:id="@+id/jpl"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Robotics" />
+            <item
+                android:id="@+id/programming"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Programming" />
+            <item
+                android:id="@+id/ece"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Electronics" />
+            <item
+                android:id="@+id/misc"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Miscalaneous" />
+        </menu>
+    </item-->
+
+</menu>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layout_brown"
+    android:gravity="center">
+
+    <!--<android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+        android:elevation="4dp"
+        card_view:cardCornerRadius="8dp">
+
+        <RelativeLayout
+            android:id="@+id/rel_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/gdg"
+                android:id="@+id/cover"
+                android:transitionName="selected team"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:alpha="0.3" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="CyberShristi'17"
+                android:id="@+id/txt_movie_details"
+                android:singleLine="true"
+                android:layout_marginLeft="10dp"
+                android:textSize="45dp"
+                android:textColor="#ffffff"
+                android:layout_alignBottom="@+id/cover"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="&quot;Hackathon is no less than a fiesta for computer nerds and gizmo geeks! Hackathons provide a venue for self-expression and creativity through technology. Despite the complete lack of sleep, these events are addictive, and the community building around them is growing faster than ever. Teams work together to come up with awebsite, mobile app, or even hardware hack, the goal is to start from scratch and end with a working prototype. Hackathons also serve as recruiting events where venture capitalists and head-hunters for top tech firms hang about in order to spot and seize talent. Go Geeky!"
+                android:id="@+id/txt_plot_details"
+                android:layout_marginLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="12sp"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/cover"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="WWW.FIFA.COM"
+                android:id="@+id/textView"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="24dp" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>-->
+
+
+        <TextView
+            android:hint="Workshops"
+            android:textSize="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:id="@+id/textView5"
+            android:layout_weight="1" />
+
+
+</RelativeLayout>
